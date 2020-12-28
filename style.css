@@ -7,6 +7,10 @@
   border: none;
 }
 
+.topnav a:hover {
+  background-color: rgb(255, 39, 208);
+}
+
 /* The container <div> - needed to position the dropdown content */
 .dropdown {
   position: relative;
@@ -55,5 +59,6 @@
 /* Images for site*/
 body{
   background-image: url(background.jpg);
+  background-position: center;
   background-color: cornflowerblue;
 }
